@@ -1,0 +1,33 @@
+Universidad del Valle de Guatemala
+Algoritmos y Estructura de Datos 
+Ing. Oscar Robles 
+Sección 20
+
+Didier Salazar, 15487
+Joseline Ortiz, 15039
+Michelle Morales, 15322
+Raúl de León, 15112
+
+
+>>>>>Proyecto 2, Fase 1: Sistema de Recomendaciones
+
+
+Metodología Design Thinking:
+
+>>-------------
+
+
+Algoritmos de Sistemas de Recomendaciones:
+
+>>El algoritmo más usado en sistemas recomendadores es el Nearest Neighborhood. 
+En una red social, un usuario particular usa un vecino con gustos e intereses similares que pueden ser 
+encontrados calculándolos con la Pearson Correlation, colectando la data de preferencia de los primeros 
+N-vecinos para un usuario en particular, (pesado por su similitud).
+
+
+
+Diseño del algoritmo:
+
+>>------------
+
+
